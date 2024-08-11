@@ -2,6 +2,8 @@
 
 Draft Assistant is a minimalist, CLI-based tool designed to help writers analyze and improve their drafts using AI-powered suggestions. It provides a streamlined interface for selecting drafts, generating improvement paths, and receiving step-by-step guidance.
 
+https://github.com/user-attachments/assets/2ffd16d4-2aef-48f1-96fa-8daa441a83c7
+
 ## Features
 
 - Minimalist, hackery aesthetic reminiscent of 90s CLI apps
